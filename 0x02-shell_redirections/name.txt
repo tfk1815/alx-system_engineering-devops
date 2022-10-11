@@ -1,0 +1,4 @@
+name
+boy.js
+girl.js
+man.js
